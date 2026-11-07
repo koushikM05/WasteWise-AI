@@ -1,0 +1,16 @@
+date,meal,item,category,portions_prepared,portions_served,portions_wasted,waste_kg,cost_per_portion,reason
+2026-11-01,Lunch,Vegetable Biryani,Rice,100,85,15,4.5,45,Low student turnout
+2026-11-01,Lunch,Chapati,Bread,120,110,10,2.0,8,Overestimation
+2026-11-01,Breakfast,Idli,Breakfast,80,76,4,1.2,12,Normal leftovers
+2026-11-02,Lunch,Vegetable Biryani,Rice,100,92,8,2.4,45,Good demand
+2026-11-02,Lunch,Curd Rice,Rice,70,55,15,3.0,30,Low demand
+2026-11-02,Breakfast,Dosa,Breakfast,90,84,6,1.8,15,Normal leftovers
+2026-11-03,Lunch,Paneer Rice,Rice,80,72,8,2.4,55,Moderate demand
+2026-11-03,Lunch,Chapati,Bread,120,115,5,1.0,8,Good demand
+2026-11-03,Dinner,Veg Fried Rice,Rice,75,60,15,3.0,40,Low evening attendance
+2026-11-04,Breakfast,Idli,Breakfast,100,95,5,1.5,12,Good demand
+2026-11-04,Lunch,Vegetable Biryani,Rice,110,100,10,3.0,45,Normal leftovers
+2026-11-04,Dinner,Chapati,Bread,80,68,12,2.4,8,Low demand
+2026-11-05,Lunch,Curd Rice,Rice,70,65,5,1.0,30,Good demand
+2026-11-05,Breakfast,Dosa,Breakfast,100,90,10,3.0,15,Moderate demand
+2026-11-05,Lunch,Paneer Rice,Rice,90,82,8,2.4,55,Normal leftovers

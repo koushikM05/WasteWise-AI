@@ -1,0 +1,11 @@
+# WasteWise AI dependencies.
+# Install later with: pip install -r requirements.txt
+
+streamlit
+pandas
+python-dotenv
+groq
+# 1.2.0 is the version the memory code was checked against.
+hindsight-client>=1.2.0
+plotly
+groq
